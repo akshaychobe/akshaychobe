@@ -4,9 +4,9 @@
 ---
 
 ## 🧠 What I already Built  
-- **🚀 Production-ready ADAS & IIoT pipelines**: real-time sensor fusion, drift monitoring, and GUI integration  
-- **✅ MLOps at scale**: Docker/Kubernetes deployments, FastAPI, Airflow, MLflow, Kafka, Prometheus  
-- **📊 Smart vision systems**: multi-sensor object detection, depth estimation, anomaly detection in manufacturing  
+- **Production-ready ADAS & IIoT pipelines**: real-time sensor fusion, drift monitoring, and GUI integration  
+- **MLOps at scale**: Docker/Kubernetes deployments, FastAPI, Airflow, MLflow, Kafka, Prometheus  
+- **Smart vision systems**: multi-sensor object detection, depth estimation, anomaly detection in manufacturing  
 
 ---
 
@@ -27,7 +27,7 @@
 
 ## 📫 Let’s Connect  
 - **LinkedIn**: [linkedin.com/in/akshaychobeadas](https://www.linkedin.com/in/akshaychobeadas/)  
-- Always open to **collaboration**, **mentorship**, and **open-source contributions**
+- Always open to **ollaborate**, **Volunteer**, and **open-source contributions**
 
 ---
 
@@ -35,7 +35,7 @@
 
 ---
 
-## ⚡ Project Highlights
+## Project Highlights
 
 | Project | Description |
 |--------|-------------|
