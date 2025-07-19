@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Akshay Chobe  
-**Master’s student turned AI Engineer** focused on industrial computer vision, AI/ ML workflows, GenAI, LLMs and scalable MLOps solutions.
+**Master’s student turned AI Engineer** focused on industrial computer vision, AI/ ML workflows, GenAI, LLMs, ADAS and scalable MLOps solutions.
 
 ---
 
