@@ -10,13 +10,16 @@
 
 ---
 
-## ⚡ Highlight Projects
+## ⚡ Project Highlights
 
 | Project | Description |
 |--------|-------------|
+| **Domain-Aware Feedback Intelligence Engine (DAFIE)** | Real-time feedback analysis engine with few-shot learning and clustering, achieving 92% F1 in low-resource multi-label classification |
 | **Sensor Health Monitoring** | Kafka-streamed LSTM analytics with FastAPI serving, drift alerts & retraining workflows |
-| **Radar–LiDAR–Camera Fusion** | Achieved 98% detection & 94% depth accuracy in 3D sensor pipelines |
 | **Smart Manufacturing MLOps** | End-to-end solution: forecasting, defect detection, OCR, explainability, dashboard & CI/CD |
+| **Formula Student Driverless Navigation (FSD-Nav)** | real-time perception and trajectory planning system for an autonomous race car, boosting navigation accuracy by 87% on dynamic tracks. |
+| **Radar–LiDAR–Camera Fusion** | Achieved 98% detection & 94% depth accuracy in 3D sensor pipelines |
+
 
 ---
 
