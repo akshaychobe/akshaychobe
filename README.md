@@ -27,7 +27,7 @@
 
 ## 📫 Let’s Connect  
 - **LinkedIn**: [linkedin.com/in/akshaychobeadas](https://www.linkedin.com/in/akshaychobeadas/)  
-- Always open to **ollaborate**, **Volunteer**, and **open-source contributions**
+- Always open to **collaborate**, **Volunteer**, and **open-source contributions**
 
 ---
 
