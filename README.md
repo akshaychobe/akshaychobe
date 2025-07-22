@@ -6,7 +6,7 @@
 ## 🧠 What I already Built  
 - **Production-ready ADAS & IIoT pipelines**: real-time sensor fusion, drift monitoring, and GUI integration  
 - **MLOps at scale**: Docker/Kubernetes deployments, FastAPI, Airflow, MLflow, Kafka, Prometheus  
-- **Smart vision systems**: multi-sensor object detection, depth estimation, anomaly detection in manufacturing  
+- **Smart vision systems**: multi-sensor object detection, depth estimation, anomaly detection in manufacturing as well as autonomous driving  
 
 ---
 
