@@ -3,7 +3,7 @@
 
 ---
 
-## 🔧 Tech Stack  
+## Experties 
 - **Languages**: Python, SQL  
 - **ML/DL**: PyTorch, TensorFlow, scikit-learn, OpenCV  
 - **MLOps & APIs**: ROS/ROS2, Docker, Kubernetes, MLflow, Kafka, FastAPI, Airflow  
@@ -12,14 +12,15 @@
 
 ---
 
-## 🌱 Currently Exploring  
+## Currently Exploring  
 - **GenAI & LLMs**: prompt engineering, retrieval-augmented generation, knowledge extraction  
 - **Knowledge graphs & ontologies**: for semantic AI pipelines  
 
 ---
 
-## 📫 Let’s Connect  
-- **LinkedIn**: [linkedin.com/in/akshaychobeadas](https://www.linkedin.com/in/akshaychobeadas/)  
+## Let’s Connect  
+- **LinkedIn**: [linkedin.com/in/akshaychobeadas](https://www.linkedin.com/in/akshaychobeadas/)
+- **Email**: [Email Me](mailto:chobeakshay2704@gmail.com) 
 - Always open to **collaborate**, **Volunteer**, and **open-source contributions**
 
 ---
