@@ -20,7 +20,7 @@
 
 ## Let’s Connect  
 - **LinkedIn**: [linkedin.com/in/akshaychobeadas](https://www.linkedin.com/in/akshaychobeadas/)
-- **Email**: [Email Me](mailto:chobeakshay2704@gmail.com) 
+- **Email**: [chobeakshay2704@gmail.com](mailto:chobeakshay2704@gmail.com) 
 - Always open to **collaborate**, **Volunteer**, and **open-source contributions**
 
 ---
